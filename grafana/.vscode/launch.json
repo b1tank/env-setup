@@ -1,5 +1,12 @@
 {
   "version": "0.2.0",
+  "compounds": [
+    {
+      "name": "Server/Client",
+      "configurations": ["Run Server", "Launch Chrome"],
+      "stopAll": false
+    }
+  ],
   "configurations": [
     {
       "name": "Launch Chrome",
