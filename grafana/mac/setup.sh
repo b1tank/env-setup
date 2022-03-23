@@ -10,6 +10,7 @@ softwareupdate --all --install --force
 # open pkg file downloaded and install it
 
 # install node
+NODEVERSION=16
 brew install node@16
 node -v
 
